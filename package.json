@@ -1,0 +1,28 @@
+{
+  "name": "genai-prs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishav-learnerml/cursor-2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/rishav-learnerml/cursor-2.0/issues"
+  },
+  "homepage": "https://github.com/rishav-learnerml/cursor-2.0#readme",
+  "dependencies": {
+    "@google/genai": "^1.12.0",
+    "child_process": "^1.0.2",
+    "dotenv": "^17.2.1",
+    "readline-sync": "^1.4.10",
+    "util": "^0.12.5"
+  }
+}
